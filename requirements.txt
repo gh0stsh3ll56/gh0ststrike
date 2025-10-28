@@ -1,0 +1,14 @@
+# GhostStrike - Requirements
+# Python 3.8+ required
+
+# HTTP requests library
+requests>=2.31.0
+
+# URL parsing and handling
+urllib3>=2.0.0
+
+# Optional: For better SSL/TLS support
+certifi>=2023.7.22
+
+# Optional: For colored terminal output (already included in stdlib)
+# colorama>=0.4.6  # Only needed on Windows
